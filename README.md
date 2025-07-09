@@ -47,7 +47,7 @@ graph TD
     B --> C2[Model 2: Multi-Feature Pricing]
     C1 --> D[Real-Time Pricing Output]
     C2 --> D
-    D --> E[Interactive Dashboard (Bokeh/Panel)]
+    D --> E[Interactive Dashboard Bokeh/Panel]
     E --> F[User Insights & Model Comparison]
 ```
 
