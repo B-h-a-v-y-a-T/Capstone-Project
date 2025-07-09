@@ -72,9 +72,12 @@ graph TD
 ├── Capstone Project - Model 2 Notebook.ipynb
 ├── Capstone Project - Model Comparison Notebook.ipynb
 ├── Capstone Project Report.pdf
+├── Copy of dataset.csv
 ├── Model 1 Plots.pdf
 ├── Model 2 Plots.pdf
 ├── Model Comparison Plots.pdf
+├── Model1_Output.csv
+├── Model2_Output.csv
 └── README.md
 ```
 
