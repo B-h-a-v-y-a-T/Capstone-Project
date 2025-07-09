@@ -85,7 +85,7 @@ graph TD
 1. Open notebooks in Google Colab or JupyterLab.
 2. Ensure required packages are installed:
    ```bash
-   pip install pathway bokeh pandas scikit-learn panel
+   pip install pathway bokeh pandas panel
    ```
 3. Run the Model 1 and Model 2 notebooks to see real-time pricing output.
 4. Use the Comparison Notebook to view differences and performance of both models.
@@ -94,7 +94,7 @@ graph TD
 
 ## Project Report
 
-Refer to `report.pdf` for in-depth methodology, assumptions, and performance analysis.
+Refer to `Capstone Project Report.pdf` for in-depth methodology, assumptions, and performance analysis.
 
 ---
 
