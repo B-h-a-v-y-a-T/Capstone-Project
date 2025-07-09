@@ -42,13 +42,13 @@ A predictive analytics project designed to optimize urban parking through real-t
 
 ```mermaid
 graph TD
-    A[Simulated CSV / Streaming Data] --> B[Pathway Streaming Engine]
+    A[Simulated CSV - Streaming Data] --> B[Pathway Streaming Engine]
     B --> C1[Model 1: Linear Pricing]
     B --> C2[Model 2: Multi-Feature Pricing]
     C1 --> D[Real-Time Pricing Output]
     C2 --> D
     D --> E[Interactive Dashboard Bokeh/Panel]
-    E --> F[User Insights & Model Comparison]
+    E --> F[User Insights and Model Comparison]
 ```
 
 ---
