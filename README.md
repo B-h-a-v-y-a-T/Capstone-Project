@@ -68,13 +68,14 @@ graph TD
 
 ```
 .
-├── Capstone Project - Model 1.ipynb
-├── Capstone Project - Model 2.ipynb
+├── Capstone Project - Model 1 Notebook.ipynb
+├── Capstone Project - Model 2 Notebook.ipynb
 ├── Capstone Project - Model Comparison Notebook.ipynb
-├── data/
-│   ├── spot_data.csv (simulated live data)
-├── README.md
-└── report.pdf
+├── Capstone Project Report.pdf
+├── Model 1 Plots.pdf
+├── Model 2 Plots.pdf
+├── Model Comparison Plots.pdf
+└── README.md
 ```
 
 ---
